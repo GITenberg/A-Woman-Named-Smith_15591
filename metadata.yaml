@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4443'
     url: http://www.gutenberg.org/2009/agents/4443
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15591#A-Woman-Named-Smith
 gutenberg_issued: '2005-04-08'
 gutenberg_type: Text
 identifiers:
