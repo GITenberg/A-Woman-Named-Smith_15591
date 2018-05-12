@@ -1,0 +1,27 @@
+_repo: A-Woman-Named-Smith_15591
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15591-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Oemler, Marie Conway
+    birthdate: 1879
+    deathdate: 1932
+    gutenberg_agent_id: '4443'
+    url: http://www.gutenberg.org/2009/agents/4443
+description: ''
+gutenberg_issued: '2005-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'South Carolina -- Fiction'
+title: A Woman Named Smith
+url: http://www.gutenberg.org/ebooks/15591
